@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohit Bali
+- 👋 Hi, I’m Mohit.
 - 👀 I've interest in History, Culture and Science.
 - 🌱 I’m currently doing Engineering.
 
