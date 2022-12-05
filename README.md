@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mohit.
-- 👀 I've interest in History, Culture and Science.
-- 🌱 I’m currently doing Engineering.
--  Camera Shy and Closed Mouthed
+- 👋 Hi, I’m Mohit. I'm from Faridabad, Haryana.
+- I’m currently doing Engineering in Lovely Professional  University, Phagwara, Punjab in B.Tech CSE (2022-2026).
+- I like listening to music and also like reading things related to Politics, Culture & History.
+- Camera-Shy & Taciturn Person.
 
 
 <!---
