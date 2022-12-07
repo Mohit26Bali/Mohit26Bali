@@ -2,7 +2,8 @@
 - I’m currently doing Engineering in Lovely Professional  University, Phagwara, Punjab in B.Tech CSE (2022-2026).
 - I like listening to music and also like reading things related to Politics, Culture & History.
 - Camera-Shy & Taciturn Person.
-  Reach me here 
+
+  You can reach me
 
 - LinkedIn
   https://www.linkedin.com/in/mohit-bali-a5a67924a
@@ -12,6 +13,8 @@
   https://stackoverflow.com/users/20530768/mohit-bali
 - HackkerRank
   https://www.hackerrank.com/m26ohitbali?hr_r=1
+- GeeksforGeeks 
+  https://auth.geeksforgeeks.org/user/m26ohip7ol
 
 
 
