@@ -1,9 +1,11 @@
 - Hi, I’m Mohit. I'm from Faridabad, Haryana.
 - I’m currently doing Engineering in Lovely Professional  University, Phagwara, Punjab in B.Tech CSE (2022-2026).
-- I like listening to music and also like reading things related to Politics, Culture & History.
+- I'm decent at Web Developing related stuffs like HTML, CSS and JavaScript.
+- Other than the above mentioned, I like listening to music and also like reading things related to Politics, Culture & History.
 - Camera-Shy & Taciturn Person.
 
-  You can reach me
+
+- You can reach me on 
 
 - LinkedIn
   https://www.linkedin.com/in/mohit-bali-a5a67924a
